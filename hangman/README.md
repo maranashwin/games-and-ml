@@ -79,4 +79,4 @@ The `transformer_soln` directory implements a more principled transformer neural
 | Approach | Win Rate (Train) | Win Rate (Val) | Strengths | Weaknesses |
 |----------|------------------|----------------|-----------|------------|
 | Statistical | 87% | 60% | Fast, interpretable, good on familiar words | Poor generalization to unseen words |
-| Transformer | N/A | 75% | Learns complex patterns, better generalization | Requires training, less interpretable |
+| Transformer | N/A | 70% | Learns complex patterns, better generalization | Requires training, less interpretable |
