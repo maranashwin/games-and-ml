@@ -70,7 +70,7 @@ The `transformer_soln` directory implements a more principled transformer neural
 - **Comprehensive logging**: Tracks activations and gradients for analysis
 
 ### Performance
-- Achieves ~75% accuracy on validation set
+- Achieves ~70% accuracy on validation set
 - Significantly better than statistical approach on unseen words
 - Demonstrates learning of complex letter patterns and word structures
 
